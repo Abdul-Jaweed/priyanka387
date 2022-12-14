@@ -15,8 +15,10 @@ Here are some ideas to get you started:
 -->
 
 
-![logo](https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif)
+<!-- ![logo](https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif)
+ -->
 
+![logo](https://megamodz.com/forums/uploads/monthly_2020_06/tumblr_ovzapbz7TN1wav2teo6_r1_500.gif.350b595bf3ee7ed03d9633c908274943.gif)
 
 <h1 align="center">Hello, I'm Priyanka Kumari</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
