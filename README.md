@@ -1,4 +1,3 @@
-### Hi there 👋
 
 <!--
 **priyanka387/priyanka387** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,6 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hello, I'm Priyanka Kumari</h1>
 <h3 align="center">A passionate Data Scientist from India</h3>
+
+
+
+<img align="right" alt="coding" width="400" src="https://thumbs.gfycat.com/TiredRipeFennecfox-size_restricted.gif" >
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanka387&label=Profile%20views&color=0e75b6&style=flat" alt="priyanka387" /> </p>
 
